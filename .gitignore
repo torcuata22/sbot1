@@ -12,6 +12,7 @@ docs-v2/.doctrees
 __pycache__/
 *.so
 *~
+slackclient
 
 # virtualenv
 env*/
